@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: interstellar
-    env: docker
+    name: utopia
+    env: node
     plan: free
 Footer
